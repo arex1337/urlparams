@@ -17,7 +17,9 @@ This jQuery plugin makes it easier to access URL parameters from Javascript.
 
 Installation
 ---------------------
-Download the .js file in [the lib directory](https://github.com/arex1337/urlparams/tree/master/lib/) and put it in your page. You're ready to go.
+Download the .js file in [the lib directory](https://github.com/arex1337/urlparams/tree/master/lib/) and put it in your page:  
+<script type="text/javascript" src="jquery.urlparams-XXX.js"></script>  
+You're ready to go.
 
 
 API
