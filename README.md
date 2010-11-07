@@ -45,7 +45,7 @@ Returns the string value of the provided URL parameter name (using the provided 
 
 Examples
 ---------------------
-If you use this code while on the URL http://example.com/?controller=user&action=delete&id=10&quick  
+If you use this code while on the URL *http://example.com/?controller=user&action=delete&id=10&quick*  
 `$.urlparams('getAll')` will return the object `{controller: 'user', action: 'delete', id: '10', quick: ''}`  
 `$.urlparams('get', 'controller')` will return the string value `'user'`  
 `$.urlparams('exists', 'controller')` will return the boolean value `true`
