@@ -37,7 +37,7 @@ Returns the string value of the provided URL parameter name (using the provided 
 $.urlparams('exists', paramString);
 Returns a boolean value indicating if the provideded URL parameter name exists in the URL (using window.location.search as the URL)
 
-$.urlparams('exists', paramString, urlString);  
+$.urlparams('exists', paramString, urlString);
 Returns the string value of the provided URL parameter name (using the provided urlString parameter as the URL)
 
 
